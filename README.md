@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar643&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar643" /> </p>
 
-- 🔭 I’m currently working on **React,Javascript,Pyhton**
+- 🔭 I’m currently working on **HTML,Javascript,Pyhton**
 
 - 🌱 I’m currently learning **React,Node JS**
 
-- 👯 I’m looking to collaborate on **collaborate on ...Linkedin**
+- 👯 I’m looking to collaborate on ** ...Linkedin**
 
 - 🤝 I’m looking for help with **... Web Development**
 
