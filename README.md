@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar643&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar643" /> </p>
 
-- 🔭 I’m currently working on **HTML,Javascript,Pyhton**
+- 🔭 I’m currently working on **HTML,CSS,Javascript,Pyhton**
 
 - 🌱 I’m currently learning **React,Node JS**
 
