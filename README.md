@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://rajacepat.com/assets/frontend/img/webdev.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar643&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar643" /> </p>
-
 - 🔭 I’m currently working on **HTML,CSS,Javascript,Pyhton**
 
 - 🌱 I’m currently learning **React,Node JS**
