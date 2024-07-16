@@ -3,7 +3,7 @@
 <br>
 <img align = "right" alt = "coding" width = "400" src = "https://rajacepat.com/assets/frontend/img/webdev.gif">
 
-- 🔭 I’m currently working on **HTML,CSS,Javascript,Pyhton**
+- 🔭 I’m currently working on **HTML,CSS,Javascript,Python**
 
 - 🌱 I’m currently learning **React,Node JS**
 
