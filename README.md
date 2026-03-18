@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Prakash Singh</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">Python Developer</h3>
 <br>
 <img align = "right" alt = "coding" width = "400" src = "https://rajacepat.com/assets/frontend/img/webdev.gif">
 
